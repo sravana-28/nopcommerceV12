@@ -1,0 +1,58 @@
+[INFO ] 10-02-2021 04:41:45.855 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 04:41:50.101 TC_loginTest_001 - **************** Providing login details ************* 
+[INFO ] 10-02-2021 04:41:52.457 TC_loginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 10-02-2021 04:41:52.459 TC_loginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 05:14:17.371 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 05:14:32.080 TC_loginTest_001 - **************** Providing login details ************* 
+[INFO ] 10-02-2021 05:14:45.318 TC_loginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 10-02-2021 05:14:45.320 TC_loginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 06:00:13.525 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 06:00:42.096 TC_loginTest_001 - **************** Providing login details ************* 
+[INFO ] 10-02-2021 06:00:54.421 TC_loginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 10-02-2021 06:00:54.422 TC_loginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 06:01:29.049 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 06:01:47.255 TC_loginTest_001 - **************** Providing login details ************* 
+[INFO ] 10-02-2021 06:02:03.689 TC_loginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 10-02-2021 06:02:03.874 TC_loginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 06:25:54.647 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 10-02-2021 06:26:01.431 TC_loginTest_001 - **************** Providing login details ************* 
+[INFO ] 10-02-2021 06:26:11.033 TC_loginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 10-02-2021 06:26:11.035 TC_loginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 11-02-2021 01:58:40.895 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 11-02-2021 01:58:54.514 TC_loginTest_001 - **************** Providing login details ************* 
+[INFO ] 11-02-2021 01:59:09.402 TC_loginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 11-02-2021 01:59:09.546 TC_loginTest_001 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 11-02-2021 02:01:17.159 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 11-02-2021 02:09:02.116 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 11-02-2021 02:09:22.486 TC_loginTest_001 - **************** Providing login details ************* 
+[WARN ] 11-02-2021 02:10:23.040 TC_loginTest_001 - **************** loginTest is Failed************* 
+[INFO ] 11-02-2021 02:25:34.266 TC_loginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 11-02-2021 02:25:39.246 TC_loginTest_001 - **************** Providing login details ************* 
+[WARN ] 11-02-2021 02:25:44.708 TC_loginTest_001 - **************** loginTest is Failed************* 
+[INFO ] 11-02-2021 03:17:24.298 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:22.565 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 11-02-2021 03:18:27.867 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:28.113 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:36.222 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 11-02-2021 03:18:36.222 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:36.224 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:42.291 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 11-02-2021 03:18:44.799 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:44.802 TC_LoginDDT_002 - ********* starting TC_LoginDDT_002 *************
+[INFO ] 11-02-2021 03:18:50.907 TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 11-02-2021 03:18:50.907 TC_LoginDDT_002 - ********* Finished  TC_LoginDDT_002 *************
+[INFO ] 12-02-2021 10:52:53.639 TC_AddCustomer_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 12-02-2021 10:53:06.990 TC_AddCustomer_003 - *********Adding new customer *************
+[INFO ] 13-02-2021 06:12:03.169 TC_AddCustomer_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 13-02-2021 06:12:17.561 TC_AddCustomer_003 - *********Adding new customer *************
+[INFO ] 13-02-2021 06:15:28.501 TC_AddCustomer_003 - ********* starting TC_AddCustomerTest_003 *************
+[INFO ] 13-02-2021 06:15:37.079 TC_AddCustomer_003 - *********Adding new customer *************
+[INFO ] 13-02-2021 06:15:45.213 TC_AddCustomer_003 - ***************  Providing customer details  *********** 
+[INFO ] 13-02-2021 06:15:57.258 TC_AddCustomer_003 - ***************  Customer added succesfully *********** 
+[INFO ] 13-02-2021 06:15:57.317 TC_AddCustomer_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 13-02-2021 06:52:14.930 TC_SearchbyEmail_004 - ********* starting TC_SearchCustomerByEmail_004 *************
+[INFO ] 13-02-2021 06:53:11.490 TC_SearchbyEmail_004 - ********* Search customer by email is passed *************
+[INFO ] 13-02-2021 06:53:11.492 TC_SearchbyEmail_004 - ********* End of TC_SearchCustomerByEmail_004 *************
+[INFO ] 13-02-2021 06:53:15.777 TC_Searchbyname_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 13-02-2021 06:53:45.784 TC_Searchbyname_005 - ********* Search customer by name is passed *************
+[INFO ] 13-02-2021 06:53:45.785 TC_Searchbyname_005 - ********* End of TC_SearchCustomerByName_005 *************
